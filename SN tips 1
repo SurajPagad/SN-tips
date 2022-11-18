@@ -1,0 +1,5 @@
+Get app customizations
+gs.info(sn_app_customization.AppCustomizationAPI.getAppCustomizationFiles('d0f0c1303ba23200ce8a4d72f3efc4ac'));
+
+DB size 
+https://instance.service-now.com/usageanalytics_count_list.do?sysparm_query=table_name%3DPrimary%20DB%20size%20(MB)&sysparm_view=
