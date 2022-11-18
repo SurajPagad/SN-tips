@@ -3,3 +3,6 @@ gs.info(sn_app_customization.AppCustomizationAPI.getAppCustomizationFiles('d0f0c
 
 DB size 
 https://instance.service-now.com/usageanalytics_count_list.do?sysparm_query=table_name%3DPrimary%20DB%20size%20(MB)&sysparm_view=
+
+Custom tables and Exempt table,
+ua_custom_table_inventory and ua_exempted_table_inventory
